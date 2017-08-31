@@ -1,1 +1,50 @@
 /* TODO: insert styles here */
+
+.content {
+  border: 2px solid black;
+  padding: 10px 30px 30px 30px;
+}
+
+.align {
+  display: flex;
+  justify-content: center;
+}
+
+.local {
+  border: 2px solid #4757FF;
+  display: inline-block;
+}
+.remotes {
+  border: 2px solid #FB4E32;
+  display: inline-block;
+}
+hr.style1 {
+  border-top: 2px solid #4757FF;
+}
+
+h1 {
+font-family: 'Lato', sans-serif;
+color: #262626;
+text-align: center;
+}
+
+.blue h3 {
+  color: #4757FF;
+}
+
+.orange h3{
+  color: #FB4E32;
+}
+
+h2{
+font-family: 'Roboto Condensed', sans-serif;
+}
+
+h3{
+  font-family: 'Roboto Mono', monospace;
+}
+
+p{
+  font-family: 'Roboto', sans-serif;
+  color: #6E6E6E;
+}
